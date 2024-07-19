@@ -6,4 +6,5 @@
 
 ### Running
 
-1.
+1. `go run main.go`
+1. Navigate to `http://localhost:8080`
